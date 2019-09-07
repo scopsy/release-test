@@ -1,10 +1,10 @@
 # Changelog
 
-## v.3.10.0
+## v3.10.0
 
 - fix: test
 
-## v.3.9.1
+## v3.9.1
  
  - fix: test
 
